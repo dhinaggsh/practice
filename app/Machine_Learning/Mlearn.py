@@ -111,5 +111,6 @@ def learning_ml():
     
     return int(pre[0])
 
-
+# Machine Learning is a Concept of AI
+# It's used to learn past data and predict new data automatically
     
