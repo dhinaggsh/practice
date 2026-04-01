@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-$3u9ot&g8y63g3uyj!#b0wh!euvec7k0sc1ablp67bjx%nvrbu'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["my-biometric-test.onrender.com"]
 
 
 # Application definition
